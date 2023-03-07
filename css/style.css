@@ -63,7 +63,7 @@ h1 {
   margin-left: 10px;
 }
 
-.btn.focus {
+.btn:focus {
   outline: 0;
 }
 
